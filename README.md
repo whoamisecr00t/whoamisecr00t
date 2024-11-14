@@ -37,7 +37,7 @@
 - &#x1f0cf; **Twitter**: anonymous-ccna
 - &#x1f4e7; **电邮**: r00t@cisa.gov.org.cn
 - &#x1f4f1; **微信**: 扫下图
-- <img src="./images/00000-2971563614.png" width="512" height="512" />
+- <img src="./wechat.jpg" width="512" height="512" />
 
 
 
